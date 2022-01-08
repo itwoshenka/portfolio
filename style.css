@@ -1800,3 +1800,9 @@ html{
     background: url(pin_footer_hover.svg);
     cursor: pointer;
 }
+.github_footer:hover{
+    color: #BDAE82;
+}
+.rsschool_footer:hover{
+    color: #BDAE82;
+}
