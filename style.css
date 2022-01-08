@@ -178,7 +178,7 @@
     position: absolute;
     width: 8px;
     height: 50px;
-    left: calc(50% - 8px/2 + 3px);
+    left: calc(50% - 8px/2 + 8px);
     top: 0px;
     font-family: Inter;
     font-style: normal;
