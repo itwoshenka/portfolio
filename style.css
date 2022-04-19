@@ -1,6 +1,20 @@
 html{
     scroll-behavior: smooth;
-}.background_general{
+    padding: 0px;
+    margin: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    background-size: cover;
+    background-image: url(/images/Backgroud.jpg);
+}
+body{
+    padding: 0%;
+    margin: 0px;
+    background-size: cover;
+}
+.background_general{
     background: black;
     width: 100%;
     height: 100%;
