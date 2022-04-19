@@ -8,6 +8,7 @@ html{
     width: 100%;
     background-size: cover;
     background-image: url(/images/Backgroud.jpg);
+    background-color: black;
 }
 body{
     padding: 0%;
